@@ -1,1 +1,2 @@
 C:\Source\cpp2023\Project1\x64\Debug\Project1.exe
+C:\Source\cpp2023\Day01\x64\Debug\Day01.exe

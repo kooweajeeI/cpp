@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code10_DefaultValue2.cpp">
+    <ClCompile Include="code12_macrotest.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
