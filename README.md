@@ -11,3 +11,11 @@ IoT C++ 학습 리포지토리
         - std::cin >> val2;
     - 함수 오버로딩(Function Overloading)
     - 매개변수의 디폴트 값(Default Value)
+
+## 2일차
+1. C++ 기본
+    - 인라인(Inline) 함수
+    - namespace
+    - 참조자(Reference)
+        - call-by-value
+        - call-by-reference
