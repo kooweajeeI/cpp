@@ -19,3 +19,14 @@ IoT C++ 학습 리포지토리
     - 참조자(Reference)
         - call-by-value
         - call-by-reference
+
+## 3일차
+1. C++ 기본
+    - 참조자(Reference)
+        - call-by-value
+        - call-by-reference
+    - 클래스
+        - 구조체
+        - 객체지향
+    
+    - 정보은닉
