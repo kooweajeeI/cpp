@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code57_compile2.cpp">
+    <ClCompile Include="code63_Destructor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="code63_Destructor.cpp">
+    <ClCompile Include="code64_compile3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -9,7 +9,7 @@ private:
 	char * name;
 	int age;
 public:
-	Person(char * myname, int myage)
+	Person(const char * myname, int myage)
 	{
 		int len = strlen(myname) + 1;
 		name = new char[len];
