@@ -51,5 +51,12 @@ IoT C++ 학습 리포지토리
     - const
     - 클래스와 함수에 대한 friend
     - static
-
     - 상속
+        - protected 선언
+        - 상속을 위한 조건
+
+## 7일차
+1. C++ 기본
+    - 상속
+    - 다형성
+    - 가상함수(Virtual Function)
