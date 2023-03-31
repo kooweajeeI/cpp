@@ -7,7 +7,7 @@ private:
 	char name[30];
 	int birthday;
 public:
-	Person(const char aname[30], int abirthday) {
+	Person(const char * aname, int abirthday) {
 		strcpy(name, aname);
 		birthday = abirthday;
 	}
